@@ -2,6 +2,8 @@
 
 =========================GIT============================
 
+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
+
 #Below are the task me mostly do in GIT
 
  1 Creating a repository
@@ -10,5 +12,18 @@
  4 Syncing Repositories
  
  ##1 Creating a repository
- To initialize GIT --git init
+ ##2To initialize GIT --git init
+ ##3Status --- git status
+ ##4to add a file to git -- git add filename
+ ##5to add all file a time to git --- git add . "message"
+ 
+ T##6o make connection from your machine to  GITHUB or push the files from local to GIT HUB
+ Create a reposetory on GIT HUB if not created, then copy the http URL of the reposetory from GIT HUB then come to your local machine command prompt
+ git remote add origin "GIT HUB REPOSETORY HTTPS URL"
+ 
+##7 how to push file to my url
+git push origin master
+ask for credentials User name and Token from GITHUB as a password
+
+##8
  
