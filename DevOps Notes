@@ -1,0 +1,14 @@
+************************DevOps Note*********************
+
+=========================GIT============================
+
+#Below are the task me mostly do in GIT
+
+ 1 Creating a repository
+ 2 Making Changes
+ 3 Parallel development 
+ 4 Syncing Repositories
+ 
+ ##1 Creating a repository
+ To initialize GIT --git init
+ 
